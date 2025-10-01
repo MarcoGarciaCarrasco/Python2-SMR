@@ -1,7 +1,7 @@
 #Ejemplo de string
 
 frase = "Hola, estoy aprendiendo Python"
+frase2 = frase[12:23]
+car1 = frase
 
-car1 = frase[0]
-
-print (f"Este es el primer caracter {car1}")
+print (f"La subcadena de {car1} es {frase2}")
