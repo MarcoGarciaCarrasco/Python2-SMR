@@ -18,9 +18,3 @@ elif (clave ==claveSistema):
 
 else:
     print(f" La clave y el nombre son incorrectos")
-
-
-
-#elif claveSistema (clave == claveSistema) and (nombre != usuarioSistema):
-
-    #print("Su usuario es incorrecto")#
