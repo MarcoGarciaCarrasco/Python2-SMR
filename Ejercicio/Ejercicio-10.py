@@ -16,5 +16,4 @@ elif (nombre == usuarioSistema):
 elif (clave ==claveSistema):
     print(f"El nombre es incorrecto")
 
-else:
-    print(f" La clave y el nombre son incorrectos")
+else:     print(f" La clave y el nombre son incorrectos")
