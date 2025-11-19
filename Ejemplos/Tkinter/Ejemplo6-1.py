@@ -24,4 +24,4 @@ bt = Button(window,text = "Pulsame", command=renombrar)
 bt.grid(column=0,row=1)
 
 
-window.mainloop()
+window.mainloop(), 
